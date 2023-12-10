@@ -1,0 +1,81 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="openpyxl" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="openpyxl.reader.excel.load_workbook" />
+          <option value="int.__getitem__" />
+          <option value="int.__setitem__" />
+          <option value="ui_ux.main_form.MainForm.add_user" />
+          <option value="ui_ux.main_form.AddUser.add_button" />
+          <option value="ui_ux.main_form.AddUser.number" />
+          <option value="ui_ux.main_form.AddUser.name" />
+          <option value="ui_ux.main_form.AddUser.lastname" />
+          <option value="ui_ux.main_form.AddUser.drive_licen" />
+          <option value="ui_ux.main_form.AddCar.add_car" />
+          <option value="ui_ux.main_form.AddCar.number" />
+          <option value="ui_ux.main_form.AddCar.brend" />
+          <option value="ui_ux.main_form.AddCar.location" />
+          <option value="ui_ux.main_form.AddCar.tank" />
+          <option value="ui_ux.main_form.AddCar.comboBox" />
+          <option value="ui_ux.main_form.AddCar.comboBox_2" />
+          <option value="ui_ux.main_form.AddCar.cost" />
+          <option value="ui_ux.main_form.MainForm.add_car" />
+          <option value="ui_ux.main_form.AddCar.comboBox_3" />
+          <option value="ui_ux.main_form.MainForm.add_model" />
+          <option value="ui_ux.main_form.AddModel.add_model_but" />
+          <option value="ui_ux.main_form.AddModel.model" />
+          <option value="ui_ux.main_form.AddBrand.add_brand" />
+          <option value="ui_ux.main_form.AddBrand.brand" />
+          <option value="ui_ux.main_form.MainForm.add_brand" />
+          <option value="ui_ux.main_form.AddBrand.add_brand_but" />
+          <option value="ui_ux.main_form.AddOrder.show_but" />
+          <option value="ui_ux.main_form.AddOrder.brand" />
+          <option value="ui_ux.main_form.MainForm.add_order" />
+          <option value="ui_ux.main_form.AddOrder.model" />
+          <option value="ui_ux.main_form.AddOrder.show_model_but" />
+          <option value="ui_ux.main_form.AddOrder.__show_model" />
+          <option value="ui_ux.main_form.AddOrder.tableWidget" />
+          <option value="ui_ux.main_form.AddOrder.calculate" />
+          <option value="ui_ux.main_form.AddOrder.cout_hour" />
+          <option value="ui_ux.main_form.AddOrder.number_auto" />
+          <option value="ui_ux.main_form.AddOrder.for_payment" />
+          <option value="ui_ux.main_form.AddOrder.__creat_order" />
+          <option value="ui_ux.main_form.AddOrder.creat_order" />
+          <option value="ui_ux.main_form.AddOrder.number_user" />
+          <option value="ui_ux.main_form.AddOrder.creat_order_but" />
+          <option value="ui_ux.main_form.MainForm.tableWidget" />
+          <option value="ui_ux.main_form.UserShow.tableWidget" />
+          <option value="ui_ux.main_form.MainForm.show_user_butt" />
+          <option value="ui_ux.main_form.UserShow.exit_butt" />
+          <option value="ui_ux.main_form.AutoShow.exit" />
+          <option value="ui_ux.main_form.AutoShow.tableWidget" />
+          <option value="ui_ux.main_form.MainForm.show_car_butt" />
+          <option value="UI.main_form.MainForm.add_user" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
